@@ -1,9 +1,9 @@
 # Repositorio
 
 Participantes:
-**Irving Juanico**
-**Elias Gregorio Pena**
-**Henry De la O**
+- **Irving Juanico**
+- **Elias Gregorio Pena**
+- **Henry De la O**
 
 Este es un repositorio de prueba colaborativa Session 2 clase Git DataPath bootcamp
 
