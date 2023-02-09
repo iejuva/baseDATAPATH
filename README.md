@@ -5,13 +5,22 @@ Este es un repositorio de prueba
 Este es mi segundo commit
 =======
 # Repositorio
-Este es un repositorio de prueba
 
-Este es mi segundo commit - **Irving Juanico**
+Participantes:
+- **Irving Juanico**
+- **Elias Gregorio Pena**
+- **Henry De la O**
 
+Este es un repositorio de prueba colaborativa Session 2 clase Git DataPath bootcamp
 
+Segundo commit - **Irving Juanico**
 
-## Egregoryp agrego:
+**Actividades realizadas:**
+- Creacion Nuevo archivo
+- Ajustes Readme
+- Ajustes Otro archivo
+- Creacion Flow Chart en Readme
+
 
 **Data Engineering Bootcamp in DataPath flow chart:**
 ```mermaid
