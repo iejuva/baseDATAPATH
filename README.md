@@ -17,8 +17,8 @@ Segundo commit - **Irving Juanico**
 **Actividades realizadas:**
 - Creacion Nuevo archivo - Egregoryp
 - Creacion Readme - Iving
-- Ajustes Readme - Egregoryp
-- Ajustes Otro archivo - Henry De la O
+- Ajustes Readme - Henry De la O
+- Ajustes Otro archivo - Egregoryp
 - Creacion Flow Chart en Readme - Egregoryp
 
 
