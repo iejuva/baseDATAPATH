@@ -1,7 +1,7 @@
 # Repositorio
 Este es un repositorio de prueba
 
-Este es mi segundo commit - Irving Juanico
+Este es mi segundo commit - **Irving Juanico**
 
 
 
