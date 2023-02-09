@@ -10,10 +10,11 @@ Este es un repositorio de prueba colaborativa Session 2 clase Git DataPath bootc
 Segundo commit - **Irving Juanico**
 
 **Actividades realizadas:**
-- Creacion Nuevo archivo
-- Ajustes Readme
-- Ajustes Otro archivo
-- Creacion Flow Chart en Readme
+- Creacion Nuevo archivo - Egregoryp
+- Creacion Readme - Iving
+- Ajustes Readme - Egregoryp
+- Ajustes Otro archivo - Henry
+- Creacion Flow Chart en Readme - Egregoryp
 
 
 **Data Engineering Bootcamp in DataPath flow chart:**
