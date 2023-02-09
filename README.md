@@ -10,7 +10,7 @@ Este es mi segundo commit - Irving Juanico
 **Data Engineering Bootcamp in DataPath flow chart:**
 ```mermaid
 graph LR
-A[Square Rect] -- Inicio Programa --> B((Database Engineer))
+A[Inicio Programa] --> B((Database Engineer))
 B --> C(Python Data Engineer)
 C --> D((Big Data Developer))
 D --> E(Proyecto 1 Pipelines Batch)
