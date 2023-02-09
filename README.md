@@ -9,9 +9,9 @@ Data Engineering Bootcamp in DataPath flow chart:
 ```mermaid
 graph LR
 A[Square Rect] -- Inicio Programa --> B((Database Engineer))
-A --> B(Python Data Engineer)
-B --> C{Big Data Developer}
-C --> D(Proyecto 1 Pipelines Batch)
-D --> E{Proyecto 2: Real Time Processing}
-E --> F(Data Engineering Cloud Specialization)
+B --> C(Python Data Engineer)
+C --> D{Big Data Developer}
+D --> E(Proyecto 1 Pipelines Batch)
+E --> F{Proyecto 2: Real Time Processing}
+F --> G(Data Engineering Cloud Specialization)
 ```
