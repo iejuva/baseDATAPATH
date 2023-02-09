@@ -3,9 +3,11 @@ Este es un repositorio de prueba
 
 Este es mi segundo commit - Irving Juanico
 
-Egregoryp agrego:
 
-Data Engineering Bootcamp in DataPath flow chart:
+
+**Egregoryp agrego:**
+
+##**Data Engineering Bootcamp in DataPath flow chart:**
 ```mermaid
 graph LR
 A[Square Rect] -- Inicio Programa --> B((Database Engineer))
