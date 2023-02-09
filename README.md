@@ -15,9 +15,9 @@ Este es un repositorio de prueba colaborativa Session 2 clase Git DataPath bootc
 Segundo commit - **Irving Juanico**
 
 **Actividades realizadas:**
-- Creacion Nuevo archivo - Egregoryp
 - Creacion Readme - Iving
 - Ajustes Readme - Henry De la O
+- Creacion Nuevo archivo - Egregoryp
 - Ajustes Otro archivo - Egregoryp
 - Creacion Flow Chart en Readme - Egregoryp
 
