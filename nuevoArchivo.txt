@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+#Este es un nuevo archivo creado por egregoryp en el projecto de colaboracion con Irving y Henry
+#Modificacion de archivo agregado
+#Linea agregada por Henry
+=======
 #Este es un nuevo archivo creado por egregoryp en el projecto de colaboracion con Irving y Henry
 #Modificacion de archivo agregado
 #ajuste usuario antes de fortunepbi a egregoryp
 #otro ajuste usuario antes de fortunepbi a egregoryp
 #otro ajuste usuario antes de fortunepbi a egregoryp
+>>>>>>> 268014476d40d45a8bb280702d45ad07326b20f5
